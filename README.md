@@ -17,8 +17,8 @@ I'm a passionate Computer Science undergraduate and a Django developer with over
 - **Email:** [wchegesalome@gmail.com](mailto:wchegesalome@gmail.com)
 
 ## 🎯 Fun Facts
-- I’m currently learning how to create a Twitter bot for my next project.
-- I’m interested in high-performance cars, especially the Dodge Demon Hellcat.
+- I’m currently creating a Twitter bot for my next project.
+- I’m 20 years old
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cs_techguy12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/peter-njoroge-71b689251) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@wchegesalome) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/njoro90260) 
