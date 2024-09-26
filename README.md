@@ -20,4 +20,5 @@ I'm a passionate Computer Science undergraduate and a Django developer with over
 ## 🎯 Fun Facts
 - I’m currently learning how to create a Twitter bot for my next project.
 - I’m interested in high-performance cars, especially the Dodge Demon Hellcat.
-- [![Njoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Njoro90260)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
+- [
+![Njoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Njoro90260&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
