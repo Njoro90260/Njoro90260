@@ -15,7 +15,7 @@ I'm a passionate Computer Science undergraduate and a Django developer with over
 
 ## 📫 How to reach me
 - **Email:** [wchegesalome@gmail.com](mailto:wchegesalome@gmail.com)
-- **Twitter:** [@yourhandle](https://x.com/njoro90260)
+- **Twitter:** [@Njoro90260](https://x.com/njoro90260)
 
 ## 🎯 Fun Facts
 - I’m currently learning how to create a Twitter bot for my next project.
