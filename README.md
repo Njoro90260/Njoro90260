@@ -1,5 +1,5 @@
 # Hi, I'm Peter Njoroge 👋
- 😄 Pronouns: He/Him
+ 😄 Pronouns: He/Him <br/>
 I'm a passionate Computer Science undergraduate and a Django developer with over a year of experience. I enjoy building web applications, working with databases, and creating solutions that solve real-world problems.
 
 ## 🛠️ Skills & Technologies
