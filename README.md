@@ -1,3 +1,24 @@
+# Hi, I'm Peter Njoroge 👋
+
+I'm a passionate Computer Science undergraduate and a Django developer with over a year of experience. I enjoy building web applications, working with databases, and creating solutions that solve real-world problems.
+
+## 🛠️ Skills & Technologies
+- **Languages:** Python, SQL, Assembly (Intel processors in Linux)
+- **Frameworks:** Django, Bootstrap 5
+- **Tools:** Git, SQLite, Linux
+- **Other:** Web Development, API Integration, Data Analysis
+
+## 🌟 Projects
+- [**Weather Data Project**](https://github.com/Njoro90260/data-visualization.git): Collects and analyzes weather data from various stations, tracking key metrics like precipitation, temperature, and wind speed.
+- [**Random Walk Simulation**](https://github.com/Njoro90260/data-visualization.git): Simulates random walks using Matplotlib for data visualization.
+- [**Blog App**](https://github.com/Njoro90260/data-visualization.git): A django blogs application that can allow users to write and edit their blogs.
+
+## 📫 How to reach me
+- **Email:** [wchegesalome@gmail.com](mailto:wchegesalome@gmail.com)
+
+## 🎯 Fun Facts
+- I’m currently learning how to create a Twitter bot for my next project.
+- I’m interested in high-performance cars, especially the Dodge Demon Hellcat.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cs_techguy12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/peter-njoroge-71b689251) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@wchegesalome) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/njoro90260) 
