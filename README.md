@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Peter Njoroge 👋
+ 😄 Pronouns: He/Him
+I'm a passionate Computer Science undergraduate and a Django developer with over a year of experience. I enjoy building web applications, working with databases, and creating solutions that solve real-world problems.
 
-<!--
-**Njoro90260/Njoro90260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills & Technologies
+- **Languages:** Python, SQL, Assembly (Intel processors in Linux)
+- **Frameworks:** Django, Bootstrap 5
+- **Tools:** Git, SQLite, Linux
+- **Other:** Web Development, API Integration, Data Analysis
 
-Here are some ideas to get you started:
+## 🌟 Projects
+- [**Weather Data Project**](https://github.com/Njoro90260/data-visualization.git): Collects and analyzes weather data from various stations, tracking key metrics like precipitation, temperature, and wind speed.
+- [**Random Walk Simulation**](https://github.com/Njoro90260/data-visualization.git): Simulates random walks using Matplotlib for data visualization.
+- [**Blog Application**](https://github.com/Njoro90260/blogs.git): A Django Blogs app where users can write blogs and edit their blogposts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+- **Email:** [wchegesalome@gmail.com](mailto:wchegesalome@gmail.com)
+- **Twitter:** [@yourhandle](https://x.com/njoro90260)
+
+## 🎯 Fun Facts
+- I’m currently learning how to create a Twitter bot for my next project.
+- I’m interested in high-performance cars, especially the Dodge Demon Hellcat.
