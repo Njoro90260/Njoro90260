@@ -9,8 +9,8 @@ I'm a passionate Computer Science undergraduate and a Django developer with over
 - **Other:** Web Development, API Integration, Data Analysis
 
 ## 🌟 Projects
-- [**Weather Data Project**](https://github.com/Njoro90260/data-visualization.git): Collects and analyzes weather data from various stations, tracking key metrics like precipitation, temperature, and wind speed.
-- [**Random Walk Simulation**](https://github.com/Njoro90260/data-visualization.git): Simulates random walks using Matplotlib for data visualization.
+- [**Data Project**](https://github.com/Njoro90260/data-visualization.git): Collects and analyzes weather data from various stations, tracking key metrics like precipitation, temperature, and wind speed.
+- [**Random Walk Simulation**](https://github.com/peter-njoro/data-visualization.git): Simulates random walks using Matplotlib for data visualization.
 - [**Blog App**](https://github.com/Njoro90260/data-visualization.git): A django blogs application that can allow users to write and edit their blogs.
 
 ## 📫 How to reach me
