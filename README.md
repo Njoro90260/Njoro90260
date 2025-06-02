@@ -51,7 +51,7 @@ Hey there 👋, I'm Peter — a developer who talks to computers more than human
 
 - 🧠 [Portfolio (Coming Soon™)](https://your-portfolio-link.com)
 - 🧪 [Face Detection Demo](https://github.com/peter-njoro/facetrack-Lite)
-- 💼 [LinkedIn](https://www.linkedin.com/in/peter-njoroge-71b689251/?lipi=urn%3Ali%3Apage%3Aprofile_common_profile_index%3B9fda1849-cb6b-493a-95d3-3c2d25b6783c)
+- 💼 [LinkedIn](https://www.linkedin.com/in/peter-njoroge-71b689251/)
 - 🐱‍💻 Probably coding right now. Or pretending to.
 
 ---
