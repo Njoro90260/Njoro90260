@@ -11,7 +11,7 @@ Hey there 👋, I'm Peter — a developer who talks to computers more than human
 - 🐍 Python whisperer (Django is my toxic situationship)
 - 🧱 JavaScript (mostly behaves — until it doesn’t)
 - 💾 C++ (because trauma builds character)
-- 🎯 Currently building: [FaceTrack Lite](https://github.com/peter-njoro/FaceTrack-Lite) — because why remember faces when you can just slave your life away writing code to do it for you?
+- 🎯 Currently building: [FaceTrack Lite](https://github.com/peter-njoro/facetrack-Lite) — because why remember faces when you can just slave your life away writing code to do it for you?
 - 🧪 Learning AI/ML one bug at a time. Debug. Cry. Repeat.
 
 ---
@@ -50,7 +50,7 @@ Hey there 👋, I'm Peter — a developer who talks to computers more than human
 ## 🤙 Let’s Link Up (Digitally, pls)
 
 - 🧠 [Portfolio (Coming Soon™)](https://your-portfolio-link.com)
-- 🧪 [Face Detection Demo](https://github.com/peter-njoro/FaceTrack-Lite)
+- 🧪 [Face Detection Demo](https://github.com/peter-njoro/facetrack-Lite)
 - 💼 [LinkedIn](https://www.linkedin.com/in/peter-njoroge-71b689251/?lipi=urn%3Ali%3Apage%3Aprofile_common_profile_index%3B9fda1849-cb6b-493a-95d3-3c2d25b6783c)
 - 🐱‍💻 Probably coding right now. Or pretending to.
 
