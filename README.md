@@ -43,7 +43,6 @@ Hey there 👋, I'm Peter — a developer who talks to computers more than human
 
 - Learning to stop overengineering
 - Contributing to meaningful projects (or at least mildly useful ones)
-- Impressing a girl via facial recognition software (it’s not creepy if it’s open-source, right? Also don't think it's gonna work.)
 
 ---
 
